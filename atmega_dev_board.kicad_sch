@@ -8337,7 +8337,7 @@
 		(uuid 86c5debb-c236-4cd5-9456-008737e6113a)
 	)
 	(rectangle
-		(start 17.78 24.13)
+		(start 15.24 24.13)
 		(end 85.09 88.9)
 		(stroke
 			(width 0)
@@ -8389,7 +8389,7 @@
 	)
 	(text "USB"
 		(exclude_from_sim no)
-		(at 70.104 26.67 0)
+		(at 80.264 26.67 0)
 		(effects
 			(font
 				(size 3 3)
@@ -9480,6 +9480,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "0603WAF5101T5E"
+			(at 77.47 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb9949f2-6bbe-4c06-814a-836727ea4d3b")
 		)
@@ -9623,6 +9632,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 168.91 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" ""
 			(at 168.91 76.2 0)
 			(effects
 				(font
@@ -9957,7 +9975,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2404120946_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"
 			(at 256.54 130.175 0)
 			(effects
 				(font
@@ -9995,6 +10013,15 @@
 			)
 		)
 		(property "JLCPCB Part#" "C2843785"
+			(at 254 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "XL-5050RGBC-WS2812B"
 			(at 254 120.65 0)
 			(effects
 				(font
@@ -10304,6 +10331,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "CL10C120JB8NNNC"
+			(at 173.99 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f97449d9-0abb-4def-b3d9-1882ce4c0364")
 		)
@@ -10582,6 +10618,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "CP2102-GMR"
+			(at 50.8 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "9984f4e0-a40d-477f-bab8-acbd2172b1b3")
 		)
@@ -10814,6 +10859,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" ""
+			(at 226.06 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "c41c3b77-e06e-415c-9672-ca896ab6d514")
 		)
@@ -10942,6 +10996,15 @@
 			)
 		)
 		(property "JLCPCB Part#" "C14663"
+			(at 171.45 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
 			(at 171.45 134.62 0)
 			(effects
 				(font
@@ -11178,6 +11241,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "0603WAF1001T5E"
+			(at 179.07 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5375f3ac-7e9b-4644-bf3d-adeedd23ca21")
 		)
@@ -11249,6 +11321,15 @@
 			)
 		)
 		(property "JLCPCB Part#" "C14663"
+			(at 77.47 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
 			(at 77.47 105.41 0)
 			(effects
 				(font
@@ -11420,6 +11501,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "CL10C120JB8NNNC"
+			(at 184.15 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "90c2fda9-6c2b-4ad8-9e64-89eb24aaa8cd")
 		)
@@ -11583,6 +11673,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+			(at 129.54 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0d3af16a-4ca5-4668-a8d3-165fc94052e6")
 		)
@@ -11727,6 +11826,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "0603WAF5101T5E"
+			(at 69.85 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e01dbd1e-b3f7-4b4a-b2cf-7bced8e51895")
 		)
@@ -11806,6 +11914,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 248.92 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" ""
 			(at 248.92 58.42 0)
 			(effects
 				(font
@@ -12016,6 +12133,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+			(at 113.03 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1bf20979-ee1f-4414-a327-c2ac8c789210")
 		)
@@ -12112,6 +12238,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "KT-0603R"
+			(at 81.28 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc97c28a-e308-40ce-87fb-608e0c088efa")
 		)
@@ -12182,6 +12317,15 @@
 			)
 		)
 		(property "JLCPCB Part#" "C14663"
+			(at 34.29 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
 			(at 34.29 105.41 0)
 			(effects
 				(font
@@ -12329,6 +12473,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" ""
+			(at 64.77 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0db62e4a-cd14-464d-a27b-00e4a46edea4")
 		)
@@ -12430,6 +12583,15 @@
 			)
 		)
 		(property "JLCPCB Part#" "C14663"
+			(at 45.72 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
 			(at 45.72 76.2 0)
 			(effects
 				(font
@@ -12601,6 +12763,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "KT-0603R"
+			(at 179.07 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aac1e1ac-56e4-41b5-97b9-e0ffc98348af")
 		)
@@ -12754,6 +12925,15 @@
 			)
 		)
 		(property "JLCPCB Part#" "C191023"
+			(at 201.93 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "1N5819WS"
 			(at 201.93 43.18 0)
 			(effects
 				(font
@@ -12918,6 +13098,15 @@
 			)
 		)
 		(property "JLCPCB Part#" "C14877"
+			(at 139.7 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "ATMEGA328P-AU"
 			(at 139.7 118.11 0)
 			(effects
 				(font
@@ -13113,6 +13302,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "CL10A106KP8NNNC"
+			(at 104.14 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4c4a39a9-4143-4c10-94ac-c9e04cce6cbf")
 		)
@@ -13211,7 +13409,7 @@
 				)
 			)
 		)
-		(property "Value" "U263-163N-4BLS1735"
+		(property "Value" "USB_C_Receptacle_USB2.0_16P"
 			(at 30.48 29.845 0)
 			(effects
 				(font
@@ -13228,7 +13426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2309181810_Lian-Xin-Technology-XUBF-0336-0817B_C7527694.pdf"
 			(at 34.29 49.53 0)
 			(effects
 				(font
@@ -13237,7 +13435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
+		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
 			(at 30.48 49.53 0)
 			(effects
 				(font
@@ -13264,7 +13462,16 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C2931474"
+		(property "JLCPCB Part#" "C7527694"
+			(at 30.48 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "XUBF-0336-0817B"
 			(at 30.48 49.53 0)
 			(effects
 				(font
@@ -13544,6 +13751,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "X322516MLB4SI"
+			(at 179.07 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9d4cf620-c66d-451c-bbb8-b83f89118828")
 		)
@@ -13639,6 +13855,15 @@
 			)
 		)
 		(property "JLCPCB Part#" "C14663"
+			(at 121.92 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
 			(at 121.92 74.93 0)
 			(effects
 				(font
@@ -13810,6 +14035,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "CL10A106KP8NNNC"
+			(at 142.24 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2ce96cef-6622-4825-a249-ac6ccda9d6b7")
 		)
@@ -13972,6 +14206,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "0603WAF1001T5E"
+			(at 73.66 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "103da6a2-7aac-407a-ad56-2aa25a3f8f78")
 		)
@@ -14060,6 +14303,15 @@
 			)
 		)
 		(property "JLCPCB Part#" "C318884"
+			(at 176.53 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "TS-1187A-B-A-B"
 			(at 176.53 134.62 0)
 			(effects
 				(font
@@ -14157,6 +14409,15 @@
 			)
 		)
 		(property "JLCPCB Part#" "C14663"
+			(at 167.64 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
 			(at 167.64 44.45 0)
 			(effects
 				(font
@@ -14327,6 +14588,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+			(at 104.14 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "05a0fc40-ed46-48a9-88d6-cbaca80bb0de")
 		)
@@ -14416,6 +14686,15 @@
 			)
 		)
 		(property "JLCPCB Part#" "C2286"
+			(at 116.84 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "KT-0603R"
 			(at 116.84 115.57 0)
 			(effects
 				(font
@@ -14576,6 +14855,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" ""
+			(at 234.95 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0bd88bdb-59d4-42d8-92eb-eb555e6a151c")
 		)
@@ -14665,6 +14953,15 @@
 			)
 		)
 		(property "JLCPCB Part#" "C21190"
+			(at 116.84 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "0603WAF1001T5E"
 			(at 116.84 106.68 0)
 			(effects
 				(font
@@ -14968,6 +15265,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "0603WAF1001T5E"
+			(at 81.28 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b16787a3-8f94-4252-8212-543eb7b2ce5b")
 		)
@@ -15105,6 +15411,15 @@
 			)
 		)
 		(property "JLCPCB Part#" "C19702"
+			(at 25.4 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "CL10A106KP8NNNC"
 			(at 25.4 105.41 0)
 			(effects
 				(font
@@ -15333,6 +15648,15 @@
 			)
 		)
 		(property "JLCPCB Part#" "C2286"
+			(at 73.66 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "KT-0603R"
 			(at 73.66 139.7 0)
 			(effects
 				(font
@@ -15700,6 +16024,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "HT7533-1"
+			(at 154.94 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2da007aa-3997-4181-8f37-85f24c2663fc")
 		)
@@ -15866,6 +16199,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+			(at 104.14 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "af6c9083-5149-4d1a-b8cd-e6afc1e98114")
 		)
@@ -15953,6 +16295,15 @@
 			)
 		)
 		(property "JLCPCB Part#" "C318884"
+			(at 234.95 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "TS-1187A-B-A-B"
 			(at 234.95 106.68 0)
 			(effects
 				(font
@@ -16115,6 +16466,15 @@
 			)
 		)
 		(property "JLCPCB Part#" "C71136"
+			(at 116.84 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part#" "78L05G-AB3-R"
 			(at 116.84 38.1 0)
 			(effects
 				(font

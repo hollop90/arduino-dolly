@@ -312,6 +312,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "KT-0603R"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76808257-f489-4a4a-82b4-812e96543c83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b23e99f7-7093-452d-9239-aabf3747acb9")
 		(sheetname "Root")
@@ -550,6 +563,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e5d7ccaf-3594-4e23-a5aa-98f05504d8dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a65c326d-bd10-4720-b1e1-9efa5c78884d")
 			(effects
 				(font
 					(size 1 1)
@@ -799,6 +825,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fbaeff6d-6a67-491f-961f-9b21772726d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "78L05G-AB3-R"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e04fa10a-e471-44e8-8288-a643a62290bf")
 			(effects
 				(font
 					(size 1 1)
@@ -1123,6 +1162,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "128eccef-40c8-41fe-8c9e-7ec35f4fd624")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/e9d37bc5-3cfe-4112-91d7-fb972531db07")
 		(sheetname "Root")
@@ -1365,6 +1417,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "15ffcfcb-dec4-492c-adc5-b6b3fb64887f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "X322516MLB4SI"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e0314a37-f9d7-4ffc-bbff-1cc60b078939")
 			(effects
 				(font
 					(size 1 1)
@@ -1642,6 +1707,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3100121d-8592-4d6f-a180-592e027c0ac0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "1N5819WS"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9181bd1c-22c4-4a2b-8d2f-968b08c730a5")
 			(effects
 				(font
 					(size 1 1)
@@ -1928,6 +2006,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part#" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "be8c47b2-f858-49c1-b826-f45576c2c548")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2264,6 +2355,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "0603WAF1001T5E"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bfa78f44-a80c-4428-944a-8b87c30ee391")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/cf132f85-bc65-48b8-aac7-4384d5916eda")
 		(sheetname "Root")
@@ -2506,6 +2610,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "90413eb6-f504-4fd7-a334-1eeeab045578")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "ATMEGA328P-AU"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea57cab9-5f9c-4d7e-95ea-53a30e54bb3b")
 			(effects
 				(font
 					(size 1 1)
@@ -3114,6 +3231,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1bffa395-f5d6-4c00-a9be-42d3a9433bd8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/3c09781f-f3de-4953-9c3e-6b1a9a98f30b")
 		(sheetname "Root")
@@ -3278,7 +3408,7 @@
 				)
 			)
 		)
-		(property "Value" "U263-163N-4BLS1735"
+		(property "Value" "USB_C_Receptacle_USB2.0_16P"
 			(at 0 5 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3302,7 +3432,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2309181810_Lian-Xin-Technology-XUBF-0336-0817B_C7527694.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3314,7 +3444,7 @@
 				)
 			)
 		)
-		(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
+		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3352,12 +3482,25 @@
 				)
 			)
 		)
-		(property "JLCPCB Part#" "C2931474"
+		(property "JLCPCB Part#" "C7527694"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ce6efebc-dec5-4be2-805c-b5998f835d9d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "XUBF-0336-0817B"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8bc62546-9834-4ec7-9e4a-8abea24fd618")
 			(effects
 				(font
 					(size 1 1)
@@ -3779,6 +3922,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67c32f70-c166-4878-ae2c-2b1a8bd59444")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9a771e73-d9cb-4486-be46-06d10533e55c")
 		(sheetname "Root")
@@ -3932,7 +4088,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C15"
-			(at 0 -1.43 270)
+			(at 0 -1.43 -90)
 			(layer "F.SilkS")
 			(uuid "8fa37c83-f0b6-48eb-80a2-ae6b821ac3bf")
 			(effects
@@ -3943,7 +4099,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 1.43 270)
+			(at 0 1.43 -90)
 			(layer "F.Fab")
 			(uuid "80264c06-c07b-4d0b-ba44-fc379e555de9")
 			(effects
@@ -4021,6 +4177,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ad9482a0-7c43-4e0b-9a90-21b6165e827b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "833fe8a5-31b1-4f15-acdd-96b754135728")
 			(effects
 				(font
 					(size 1 1)
@@ -4134,7 +4303,7 @@
 			(uuid "3ba85efd-99b4-4fb8-95f4-b7a5cb05edb7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "91479d5b-6a04-47fc-a4bf-b181ca5863a9")
 			(effects
@@ -4270,6 +4439,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8c252b98-feb5-43a1-be16-a08b45a744d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "053e3215-b1e6-43a9-a913-a02e32b68053")
 			(effects
 				(font
 					(size 1 1)
@@ -4493,6 +4675,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0cad60c1-1a9b-43ec-ab8d-ba43e4da190c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "CP2102-GMR"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "faca06ab-5285-48da-80c6-b35a373674d6")
 			(effects
 				(font
 					(size 1 1)
@@ -5167,6 +5362,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f85e167b-1856-4db0-9b0e-b87c5f17141b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/619dec7a-b566-4a08-a3c4-6a75a6fc9229")
 		(sheetname "Root")
@@ -5409,6 +5617,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e2f493f1-19e5-466f-9651-50af02b755f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "0603WAF1001T5E"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5fb9c3ea-44b1-4a78-ae10-3c762e7e201c")
 			(effects
 				(font
 					(size 1 1)
@@ -5665,6 +5886,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "CL10A106KP8NNNC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc18b14a-abc1-4dbd-9445-fa72fb6425bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/83285851-8c3a-4593-8014-13e6c701ecbe")
 		(sheetname "Root")
@@ -5914,6 +6148,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "0603WAF1001T5E"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "869b7ca6-3369-412f-bde1-17cb6c822d6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/aac087ef-29db-4a74-b2f0-c6c1cc990317")
 		(sheetname "Root")
@@ -6143,6 +6390,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1056a016-233d-4891-ac9b-975baf4abae5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "360f6a07-82e3-4f1f-aa4d-0f74f9938883")
 			(effects
 				(font
 					(size 1 1)
@@ -6570,6 +6830,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "0603WAF5101T5E"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "48c13538-9c1b-4d1f-b649-b2386dad4057")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/56abd25c-f52c-412e-82f2-63248ed7cd82")
 		(sheetname "Root")
@@ -6819,6 +7092,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f1272d20-0f56-4ac9-a69c-cbdae2ac5338")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/52a38a9d-9dd1-4106-adf2-b3632f656d59")
 		(sheetname "Root")
@@ -7061,6 +7347,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7f3eed95-aa72-4ba3-a696-e0a5022c5010")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "KT-0603R"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dbdcb473-1561-4b7f-8672-127a48b751dd")
 			(effects
 				(font
 					(size 1 1)
@@ -7339,6 +7638,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "CL10A106KP8NNNC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a45ee081-0971-4777-b193-326a035f8f92")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a403cf84-68ed-47ef-8652-e828ef95f838")
 		(sheetname "Root")
@@ -7568,6 +7880,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a035003a-fbd6-45cb-a093-395175bf7302")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea3f9be5-dfe6-4686-b1de-94ccd747e1a2")
 			(effects
 				(font
 					(size 1 1)
@@ -7894,6 +8219,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "KT-0603R"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7f308f0a-10cd-446b-93d2-23177e1d5d44")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/62b65a5b-861c-47eb-8a9c-38ddc2408c18")
 		(sheetname "Root")
@@ -8165,6 +8503,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "0603WAF1001T5E"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fad9c1aa-943e-402b-9f55-74bd72b3bed5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/455308f9-dbd1-44c2-b2d0-739c07784fcd")
 		(sheetname "Root")
@@ -8381,6 +8732,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2d360f0a-a618-4790-982e-4a32d2811a33")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "0603WAF5101T5E"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8dc273a-1bcd-4f96-b1ae-249d64c42f24")
 			(effects
 				(font
 					(size 1 1)
@@ -8637,6 +9001,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "CL10C120JB8NNNC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea69949a-69a5-4012-9a6b-b1df2b296821")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2e35f7b7-d1fd-44a8-b84b-95fc86e58e74")
 		(sheetname "Root")
@@ -8866,6 +9243,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a2d48f37-df06-4576-961a-ca41ca7c075e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "927761ee-ccb8-4358-8851-0be348d471fd")
 			(effects
 				(font
 					(size 1 1)
@@ -9312,6 +9702,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fd94b825-ed73-4ba2-82af-27d6bb894ecc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "TS-1187A-B-A-B"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bf25672c-8c89-4bce-b669-67d642d4afd5")
 			(effects
 				(font
 					(size 1 1)
@@ -9936,6 +10339,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e7e61aff-0df4-43b8-b4a6-73399f4e324e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/abf5ff83-88fd-4192-afea-4bda80dfb59a")
 		(sheetname "Root")
@@ -10178,6 +10594,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "94b88445-4940-4007-9d3e-eb78d9834100")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "TS-1187A-B-A-B"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "070197c2-4bd2-4d81-b15b-2b2414135abd")
 			(effects
 				(font
 					(size 1 1)
@@ -10802,6 +11231,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "KT-0603R"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "977cd748-4a90-4d84-85f6-8af44fa0b70f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/76812834-f5e6-40c8-9746-5152036e993e")
 		(sheetname "Root")
@@ -11040,6 +11482,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f98d104a-0b4d-472e-a751-f29f482b24c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "CL10A106KP8NNNC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ed8a934-3c8b-43dd-82c6-8ea2542417be")
 			(effects
 				(font
 					(size 1 1)
@@ -11296,6 +11751,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "CL10C120JB8NNNC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9e4ee64-b2bf-4ec0-8bc1-400d60aeef8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4d5f6fc0-77eb-4f3c-beed-1f44991a3c0b")
 		(sheetname "Root")
@@ -11482,7 +11950,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2404120946_XINGLIGHT-XL-5050RGBC-WS2812B_C2843785.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11538,6 +12006,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "db64936d-430e-4166-a322-f918981d7691")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "XL-5050RGBC-WS2812B"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07a57ce4-c88f-4614-a906-3999c6458250")
 			(effects
 				(font
 					(size 1 1)
@@ -11828,6 +12309,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54c01745-c45d-4877-9a42-8e96788034f3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/468aad66-b78c-4f54-96c9-2cd7f9eac6ed")
 		(sheetname "Root")
@@ -12070,6 +12564,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5df496c3-a6a5-43f4-8dba-9194350e9d1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" "HT7533-1"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5774bb39-97e8-4a36-928e-69b2d758a836")
 			(effects
 				(font
 					(size 1 1)
@@ -12374,6 +12881,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e34053b0-441c-437b-978c-3129c9ed2c5f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part#" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "be153dc3-5fb6-423d-91e9-5ca5cdf03686")
 			(effects
 				(font
 					(size 1 1)
