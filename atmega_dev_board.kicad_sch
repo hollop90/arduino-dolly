@@ -9898,7 +9898,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "12p"
 			(at 171.45 116.8462 0)
 			(effects
 				(font
@@ -9916,7 +9916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2204131745_Walsin-Tech-Corp-0603N220J100CT-C_C2991405.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10C120JB8NNNC_C38523.pdf"
 			(at 173.99 115.57 0)
 			(effects
 				(font
@@ -9952,7 +9952,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C2991405"
+		(property "JLCPCB Part#" "C38523"
 			(at 173.99 115.57 0)
 			(effects
 				(font
@@ -10948,7 +10948,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22p"
+		(property "Value" "12p"
 			(at 186.69 116.8335 0)
 			(effects
 				(font
@@ -10966,7 +10966,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2204131745_Walsin-Tech-Corp-0603N220J100CT-C_C2991405.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10C120JB8NNNC_C38523.pdf"
 			(at 184.15 115.57 0)
 			(effects
 				(font
@@ -11002,7 +11002,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C2991405"
+		(property "JLCPCB Part#" "C38523"
 			(at 184.15 115.57 0)
 			(effects
 				(font
