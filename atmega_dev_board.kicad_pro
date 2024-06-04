@@ -58,14 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "hole_clearance|214120000|125142000|8f2a5b3d-8d4a-4045-bdda-75d6110d9230|37e29369-1d32-4af8-9835-02987e625ce1",
-        "hole_clearance|214120000|125142000|8f2a5b3d-8d4a-4045-bdda-75d6110d9230|b63bfdab-24f9-4a50-9298-c74e483a19da",
-        "hole_clearance|220220000|125142000|656ae702-11f6-471e-8280-39735845bcdb|4c6746a3-2664-4b68-b864-035f837c1bdb",
-        "hole_clearance|220220000|125142000|656ae702-11f6-471e-8280-39735845bcdb|7a8f176a-e518-407a-86e0-15533b3bf8b3",
-        "lib_footprint_mismatch|205740000|111755000|8a2a5c4f-975f-4c92-8a7b-2b06c56ff2fc|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|228600000|111755000|c297bea9-f68e-4e04-ae62-67c2052e63c5|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -604,11 +597,11 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "images/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
-      "svg": "",
+      "svg": "images/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -755,7 +748,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "images/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
