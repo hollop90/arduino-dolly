@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -58,7 +58,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "hole_clearance|214120000|125142000|37e29369-1d32-4af8-9835-02987e625ce1|8f2a5b3d-8d4a-4045-bdda-75d6110d9230",
+        "hole_clearance|214120000|125142000|b63bfdab-24f9-4a50-9298-c74e483a19da|8f2a5b3d-8d4a-4045-bdda-75d6110d9230",
+        "hole_clearance|220220000|125142000|4c6746a3-2664-4b68-b864-035f837c1bdb|656ae702-11f6-471e-8280-39735845bcdb",
+        "hole_clearance|220220000|125142000|7a8f176a-e518-407a-86e0-15533b3bf8b3|656ae702-11f6-471e-8280-39735845bcdb"
+      ],
       "meta": {
         "version": 2
       },
@@ -584,7 +589,7 @@
       },
       {
         "netclass": "usb",
-        "pattern": "/USB*"
+        "pattern": "/*USB*"
       },
       {
         "netclass": "crystal",
