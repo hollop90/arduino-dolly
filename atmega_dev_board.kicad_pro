@@ -643,7 +643,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -655,7 +655,7 @@
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -685,7 +685,7 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -707,22 +707,22 @@
         },
         {
           "group_by": false,
-          "label": "JLCPCB Part#",
-          "name": "JLCPCB Part#",
+          "label": "JLCPCB Part #",
+          "name": "JLCPCB Part #",
           "show": true
         },
         {
           "group_by": false,
           "label": "Manufacturer Part#",
           "name": "Manufacturer Part#",
-          "show": true
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "name": "",
       "sort_asc": false,
-      "sort_field": "JLCPCB Part#"
+      "sort_field": "JLCPCB Part #"
     },
     "connection_grid_size": 50.0,
     "drawing": {

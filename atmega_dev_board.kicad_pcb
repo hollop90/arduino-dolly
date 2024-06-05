@@ -103,7 +103,6 @@
 			(dielectric_constraints no)
 		)
 		(pad_to_mask_clearance 0.038)
-		(solder_mask_min_width 0.1)
 		(allow_soldermask_bridges_in_footprints no)
 		(pcbplotparams
 			(layerselection 0x0000000_7ffffff9)
@@ -14764,7 +14763,7 @@
 	)
 	(via
 		(at 208.026 86.36)
-		(size 0.5)
+		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net 1)
@@ -14940,7 +14939,7 @@
 	)
 	(via
 		(at 224.282 86.36)
-		(size 0.5)
+		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net 1)

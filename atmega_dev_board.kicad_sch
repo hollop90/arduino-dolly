@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Arduino Dolly")
-		(date "2024-06-02")
-		(rev "Rev 0")
+		(date "2024-06-05")
+		(rev "Rev 1")
 	)
 	(lib_symbols
 		(symbol "Connector:USB_C_Receptacle_USB2.0_16P"
@@ -8249,7 +8249,7 @@
 		)
 		(uuid "2f072257-8f44-4725-8b72-02a0637d13b7")
 	)
-	(text "C-Load = 10nF\nCapacitors calculated with PCB Toolkit"
+	(text "C-Load = 10pF\nCapacitors calculated with PCB Toolkit"
 		(exclude_from_sim no)
 		(at 174.244 130.81 0)
 		(effects
@@ -9300,7 +9300,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C23186"
+		(property "Manufacturer Part#" "0603WAF5101T5E"
 			(at 80.01 45.72 0)
 			(effects
 				(font
@@ -9309,7 +9309,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "0603WAF5101T5E"
+		(property "JLCPCB Part #" "C23186"
 			(at 80.01 45.72 0)
 			(effects
 				(font
@@ -9841,7 +9841,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C2843785"
+		(property "Manufacturer Part#" "XL-5050RGBC-WS2812B"
 			(at 254 120.65 0)
 			(effects
 				(font
@@ -9850,7 +9850,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "XL-5050RGBC-WS2812B"
+		(property "JLCPCB Part #" "C2843785"
 			(at 254 120.65 0)
 			(effects
 				(font
@@ -10085,7 +10085,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C38523"
+		(property "Manufacturer Part#" "CL10C120JB8NNNC"
 			(at 180.34 118.11 0)
 			(effects
 				(font
@@ -10094,7 +10094,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "CL10C120JB8NNNC"
+		(property "JLCPCB Part #" "C38523"
 			(at 180.34 118.11 0)
 			(effects
 				(font
@@ -10372,7 +10372,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C6568"
+		(property "Manufacturer Part#" "CP2102-GMR"
 			(at 50.8 148.59 0)
 			(effects
 				(font
@@ -10381,7 +10381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "CP2102-GMR"
+		(property "JLCPCB Part #" "C6568"
 			(at 50.8 148.59 0)
 			(effects
 				(font
@@ -10760,7 +10760,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C14663"
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
 			(at 71.12 133.35 0)
 			(effects
 				(font
@@ -10769,7 +10769,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+		(property "JLCPCB Part #" "C14663"
 			(at 71.12 133.35 0)
 			(effects
 				(font
@@ -10997,7 +10997,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C21190"
+		(property "Manufacturer Part#" "0603WAF1001T5E"
 			(at 140.97 41.91 0)
 			(effects
 				(font
@@ -11006,7 +11006,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "0603WAF1001T5E"
+		(property "JLCPCB Part #" "C21190"
 			(at 140.97 41.91 0)
 			(effects
 				(font
@@ -11085,7 +11085,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C14663"
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
 			(at 27.94 113.03 0)
 			(effects
 				(font
@@ -11094,7 +11094,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+		(property "JLCPCB Part #" "C14663"
 			(at 27.94 113.03 0)
 			(effects
 				(font
@@ -11257,7 +11257,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C38523"
+		(property "Manufacturer Part#" "CL10C120JB8NNNC"
 			(at 190.5 118.11 0)
 			(effects
 				(font
@@ -11266,7 +11266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "CL10C120JB8NNNC"
+		(property "JLCPCB Part #" "C38523"
 			(at 190.5 118.11 0)
 			(effects
 				(font
@@ -11429,7 +11429,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C14663"
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
 			(at 129.54 44.45 0)
 			(effects
 				(font
@@ -11438,7 +11438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+		(property "JLCPCB Part #" "C14663"
 			(at 129.54 44.45 0)
 			(effects
 				(font
@@ -11516,7 +11516,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C23186"
+		(property "Manufacturer Part#" "0603WAF5101T5E"
 			(at 72.39 45.72 0)
 			(effects
 				(font
@@ -11525,7 +11525,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "0603WAF5101T5E"
+		(property "JLCPCB Part #" "C23186"
 			(at 72.39 45.72 0)
 			(effects
 				(font
@@ -11824,7 +11824,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C14663"
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
 			(at 115.57 77.47 0)
 			(effects
 				(font
@@ -11833,7 +11833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+		(property "JLCPCB Part #" "C14663"
 			(at 115.57 77.47 0)
 			(effects
 				(font
@@ -11912,7 +11912,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C14663"
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
 			(at 27.94 151.13 0)
 			(effects
 				(font
@@ -11921,7 +11921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+		(property "JLCPCB Part #" "C14663"
 			(at 27.94 151.13 0)
 			(effects
 				(font
@@ -12178,7 +12178,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C21190"
+		(property "Manufacturer Part#" "0603WAF1001T5E"
 			(at 167.64 123.19 0)
 			(effects
 				(font
@@ -12187,7 +12187,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "0603WAF1001T5E"
+		(property "JLCPCB Part #" "C21190"
 			(at 167.64 123.19 0)
 			(effects
 				(font
@@ -12284,7 +12284,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C14663"
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
 			(at 52.07 80.01 0)
 			(effects
 				(font
@@ -12293,7 +12293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+		(property "JLCPCB Part #" "C14663"
 			(at 52.07 80.01 0)
 			(effects
 				(font
@@ -12456,7 +12456,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C2286"
+		(property "Manufacturer Part#" "KT-0603R"
 			(at 140.97 49.53 0)
 			(effects
 				(font
@@ -12465,7 +12465,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "KT-0603R"
+		(property "JLCPCB Part #" "C2286"
 			(at 140.97 49.53 0)
 			(effects
 				(font
@@ -12689,7 +12689,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C191023"
+		(property "Manufacturer Part#" "1N5819WS"
 			(at 199.39 43.18 0)
 			(effects
 				(font
@@ -12698,7 +12698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "1N5819WS"
+		(property "JLCPCB Part #" "C191023"
 			(at 199.39 43.18 0)
 			(effects
 				(font
@@ -12861,7 +12861,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C14877"
+		(property "Manufacturer Part#" "ATMEGA328P-AU"
 			(at 137.16 120.65 0)
 			(effects
 				(font
@@ -12870,7 +12870,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "ATMEGA328P-AU"
+		(property "JLCPCB Part #" "C14877"
 			(at 137.16 120.65 0)
 			(effects
 				(font
@@ -13057,7 +13057,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C19702"
+		(property "Manufacturer Part#" "CL10A106KP8NNNC"
 			(at 104.14 44.45 0)
 			(effects
 				(font
@@ -13066,7 +13066,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "CL10A106KP8NNNC"
+		(property "JLCPCB Part #" "C19702"
 			(at 104.14 44.45 0)
 			(effects
 				(font
@@ -13292,7 +13292,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C7527694"
+		(property "Manufacturer Part#" "XUBF-0336-0817B"
 			(at 33.02 49.53 0)
 			(effects
 				(font
@@ -13301,7 +13301,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "XUBF-0336-0817B"
+		(property "JLCPCB Part #" "C7527694"
 			(at 33.02 49.53 0)
 			(effects
 				(font
@@ -13574,7 +13574,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C21190"
+		(property "Manufacturer Part#" "0603WAF1001T5E"
 			(at 36.83 113.03 0)
 			(effects
 				(font
@@ -13583,7 +13583,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "0603WAF1001T5E"
+		(property "JLCPCB Part #" "C21190"
 			(at 36.83 113.03 0)
 			(effects
 				(font
@@ -13742,7 +13742,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C13738"
+		(property "Manufacturer Part#" "X322516MLB4SI"
 			(at 185.42 111.76 0)
 			(effects
 				(font
@@ -13751,7 +13751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "X322516MLB4SI"
+		(property "JLCPCB Part #" "C13738"
 			(at 185.42 111.76 0)
 			(effects
 				(font
@@ -13854,7 +13854,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C14663"
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
 			(at 124.46 77.47 0)
 			(effects
 				(font
@@ -13863,7 +13863,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+		(property "JLCPCB Part #" "C14663"
 			(at 124.46 77.47 0)
 			(effects
 				(font
@@ -13958,7 +13958,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C21190"
+		(property "Manufacturer Part#" "0603WAF1001T5E"
 			(at 243.84 106.68 0)
 			(effects
 				(font
@@ -13967,7 +13967,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "0603WAF1001T5E"
+		(property "JLCPCB Part #" "C21190"
 			(at 243.84 106.68 0)
 			(effects
 				(font
@@ -14194,7 +14194,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C19702"
+		(property "Manufacturer Part#" "CL10A106KP8NNNC"
 			(at 153.67 44.45 0)
 			(effects
 				(font
@@ -14203,7 +14203,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "CL10A106KP8NNNC"
+		(property "JLCPCB Part #" "C19702"
 			(at 153.67 44.45 0)
 			(effects
 				(font
@@ -14364,7 +14364,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C318884"
+		(property "Manufacturer Part#" "TS-1187A-B-A-B"
 			(at 167.64 137.16 0)
 			(effects
 				(font
@@ -14373,7 +14373,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "TS-1187A-B-A-B"
+		(property "JLCPCB Part #" "C318884"
 			(at 167.64 137.16 0)
 			(effects
 				(font
@@ -14470,7 +14470,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C14663"
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
 			(at 179.07 44.45 0)
 			(effects
 				(font
@@ -14479,7 +14479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+		(property "JLCPCB Part #" "C14663"
 			(at 179.07 44.45 0)
 			(effects
 				(font
@@ -14641,7 +14641,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C14663"
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
 			(at 106.68 77.47 0)
 			(effects
 				(font
@@ -14650,7 +14650,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+		(property "JLCPCB Part #" "C14663"
 			(at 106.68 77.47 0)
 			(effects
 				(font
@@ -14747,7 +14747,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C2286"
+		(property "Manufacturer Part#" "KT-0603R"
 			(at 165.1 92.71 0)
 			(effects
 				(font
@@ -14756,7 +14756,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "KT-0603R"
+		(property "JLCPCB Part #" "C2286"
 			(at 165.1 92.71 0)
 			(effects
 				(font
@@ -15014,7 +15014,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C21190"
+		(property "Manufacturer Part#" "0603WAF1001T5E"
 			(at 165.1 85.09 0)
 			(effects
 				(font
@@ -15023,7 +15023,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "0603WAF1001T5E"
+		(property "JLCPCB Part #" "C21190"
 			(at 165.1 85.09 0)
 			(effects
 				(font
@@ -15912,7 +15912,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C14289"
+		(property "Manufacturer Part#" "HT7533-1"
 			(at 166.37 38.1 0)
 			(effects
 				(font
@@ -15921,7 +15921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "HT7533-1"
+		(property "JLCPCB Part #" "C14289"
 			(at 166.37 38.1 0)
 			(effects
 				(font
@@ -16087,7 +16087,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C14663"
+		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
 			(at 106.68 95.25 0)
 			(effects
 				(font
@@ -16096,7 +16096,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "CC0603KRX7R9BB104"
+		(property "JLCPCB Part #" "C14663"
 			(at 106.68 95.25 0)
 			(effects
 				(font
@@ -16191,7 +16191,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C318884"
+		(property "Manufacturer Part#" "TS-1187A-B-A-B"
 			(at 234.95 106.68 0)
 			(effects
 				(font
@@ -16200,7 +16200,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "TS-1187A-B-A-B"
+		(property "JLCPCB Part #" "C318884"
 			(at 234.95 106.68 0)
 			(effects
 				(font
@@ -16362,7 +16362,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part#" "C71136"
+		(property "Manufacturer Part#" "78L05G-AB3-R"
 			(at 116.84 38.1 0)
 			(effects
 				(font
@@ -16371,7 +16371,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part#" "78L05G-AB3-R"
+		(property "JLCPCB Part #" "C71136"
 			(at 116.84 38.1 0)
 			(effects
 				(font
