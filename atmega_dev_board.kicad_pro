@@ -59,10 +59,12 @@
         }
       ],
       "drc_exclusions": [
-        "hole_clearance|214120000|125142000|37e29369-1d32-4af8-9835-02987e625ce1|8f2a5b3d-8d4a-4045-bdda-75d6110d9230",
-        "hole_clearance|214120000|125142000|b63bfdab-24f9-4a50-9298-c74e483a19da|8f2a5b3d-8d4a-4045-bdda-75d6110d9230",
-        "hole_clearance|220220000|125142000|4c6746a3-2664-4b68-b864-035f837c1bdb|656ae702-11f6-471e-8280-39735845bcdb",
-        "hole_clearance|220220000|125142000|7a8f176a-e518-407a-86e0-15533b3bf8b3|656ae702-11f6-471e-8280-39735845bcdb"
+        "hole_clearance|35685000|69262000|8f2a5b3d-8d4a-4045-bdda-75d6110d9230|37e29369-1d32-4af8-9835-02987e625ce1",
+        "hole_clearance|35685000|69262000|8f2a5b3d-8d4a-4045-bdda-75d6110d9230|b63bfdab-24f9-4a50-9298-c74e483a19da",
+        "hole_clearance|41785000|69262000|656ae702-11f6-471e-8280-39735845bcdb|4c6746a3-2664-4b68-b864-035f837c1bdb",
+        "hole_clearance|41785000|69262000|656ae702-11f6-471e-8280-39735845bcdb|7a8f176a-e518-407a-86e0-15533b3bf8b3",
+        "lib_footprint_mismatch|27305000|55875000|8a2a5c4f-975f-4c92-8a7b-2b06c56ff2fc|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|50165000|55875000|c297bea9-f68e-4e04-ae62-67c2052e63c5|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -84,6 +86,7 @@
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -106,8 +109,8 @@
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
-        "text_height": "warning",
-        "text_thickness": "warning",
+        "text_height": "ignore",
+        "text_thickness": "ignore",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
@@ -703,6 +706,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
